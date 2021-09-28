@@ -1,0 +1,87 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Some code of Blinking Eyes
+    url: "https://editor.p5js.org/creativecoding/sketches/0imz5AJQU"
+    licence: (CC BY-NC-SA 4.0)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Some code of Golden Snitch
+    url: "https://editor.p5js.org/dwantilus/sketches/H1MzBzBT-"
+    licence: (CC BY-NC-SA 4.0)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Some code of Axisymmetric Cursors
+    url: "https://editor.p5js.org/aferriss/sketches/r1lSbfJqf"
+    licence: (CC BY-NC-SA 4.0)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Some code to design Piano Keys from COMP1720 lecture code  
+    url: "https://www.youtube.com/watch?v=JVbLE11BKwQ&t=1543s"
+    licence: "https://kieranbrowne.com/"
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Some code of Note Envelop to achieve piano playing
+    url: "https://p5js.org/examples/sound-note-envelope.html/"
+    licence: (CC BY-NC-SA 4.0)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Some code of Different Scenes From Alfred Le
+    url: "https://editor.p5js.org/pimanhappy/sketches/nHU7uJx50"
+    licence: (CC BY-NC-SA 4.0)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Some code in my "class ball" and ball(define,display) are based on code from p5js
+    url: "https://editor.p5js.org/2sman/sketches/BJG-tR60m"
+    licence: (CC BY-NC-SA 4.0)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: Dead Silence Doll
+    url: "https://en.wikipedia.org/wiki/File:Dead_silence.jpg"
+    licence: (CC BY-NC-SA 3.0 US)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: Horror BGM1 
+    url: "https://freemusicarchive.org/"
+    licence: (CC BY-NC-SA 3.0 US)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets: 
+  - comment: Horror BGM2
+    url: "https://freemusicarchive.org/"
+    licence: (CC BY-NC-SA 3.0 US)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets: 
+  - comment: Happy BGM3
+    url: "https://freemusicarchive.org/"
+    licence: (CC BY-NC-SA 3.0 US)
+
+# sign *your* name and uid here
+name: Tianxiang Zhang
+uid: u6773547
